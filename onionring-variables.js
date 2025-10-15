@@ -9,6 +9,7 @@
 var sites = [
 //'https://minecraft.fantasydragon.xyz/',
 //'https://cyberdragon.fantasydragon.xyz/',
+//'http://127.0.0.1:3000/',
 'https://fantasydragon.xyz/'
 ];
 

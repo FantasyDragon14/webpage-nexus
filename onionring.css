@@ -11,7 +11,8 @@
 }
 
 #theNEXUS table {
-  background-color: #ffffff; /* makes the background pure white */
+  background-color: #3d003f7b; /* makes the background pure white */
+  color: aqua;
   margin: 0 auto; /* centers the widget */
 }
 
@@ -33,4 +34,21 @@
 
 #theNEXUS .webring-links {
   font-size:small;
+  color: aquamarine;
+}
+
+#theNEXUS a {
+  text-decoration: none;
+  color: aquamarine;
+}
+
+#theNEXUS a:hover {
+  text-decoration: underline;
+  color: aqua;
+}
+#theNEXUS a:active {
+  color: white;
+}
+#theNEXUS a:visited {
+  color: rgb(166, 0, 255);
 }
