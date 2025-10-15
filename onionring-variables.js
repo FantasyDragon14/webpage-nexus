@@ -7,13 +7,13 @@
 
 //the full URLs of all the sites in the ring
 var sites = [
-'https://fantasydragon.xyz/',
-'https://fantasydragon.xyz/',
-'https://cyberdragon.fantasydragon.xyz/'
+//'https://minecraft.fantasydragon.xyz/',
+//'https://cyberdragon.fantasydragon.xyz/',
+'https://fantasydragon.xyz/'
 ];
 
 //the name of the ring
-var ringName = 'The NEXUS';
+var ringName = 'NEXUS';
 
 /* the unique ID of the widget. two things to note:
  1) make sure there are no spaces in it - use dashes or underscores if you must
